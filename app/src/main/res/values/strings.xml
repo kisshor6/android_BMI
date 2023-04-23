@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="weight">Weight (In kg)</string>
+    <string name="heightFt">Height (In ft)</string>
+    <string name="heightIn">Height (In Inch)</string>
+    <string name="health">Calculate Your BMI</string>
+
+    <string name="t1">Your Health</string>
+    <string name="t2">Calculate Your BMI</string>
+    <string name="t3">You are Healthy</string>
+
+    //Results
+
+    <string name="over">You are overWeight !</string>
+    <string name="under">You are UnderWeight !</string>
+    <string name="fit">Good! You have normal body weight</string>
+
+
+    <string name="bmi">Your BMI</string>
+
+</resources>
